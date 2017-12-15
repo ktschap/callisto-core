@@ -50,7 +50,6 @@ setup(
     install_requires=[
         'django',
         'django-nested-admin>=3',
-        'django-polymorphic>=1.0',
         'django-ratelimit>=1.0',
         'django-widget-tweaks>=1.4',
         'gnupg>=2.3',
